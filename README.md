@@ -1,4 +1,6 @@
-# bt-polyzone
+#BestRP Polyzone (Code: bt-polyzone)
+
+NL: Benodigd om BestRP-Target te laten functioneren
 
 Dependencies: https://github.com/mkafrin/PolyZone
 
